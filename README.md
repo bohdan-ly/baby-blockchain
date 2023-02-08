@@ -1,4 +1,4 @@
-# Blockchain Project Terms of Reference
+# Baby Blockchain Project Terms of Reference
 
 ### Overview and Purpose
 
